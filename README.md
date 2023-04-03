@@ -1,4 +1,6 @@
 ### Welcome to my DZ and Trash bin.
+### JAVA Python HTML/CSS C
+### KOR(NATIVE), ENG(ADVANCED)
 
 <!--
 **BasaltAm/BasaltAm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
