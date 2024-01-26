@@ -1,7 +1,7 @@
 - Born 1997
 - Attending BUFS(Busan University of Foreign Studies) German Department and IT Department.
 - Bench Press 93kg Squat 140 kg deadlift 180kg
-- JAVA Python HTML/CSS C
+- JAVA, HTML/CSS, JS
 - OPic AL(English)
 - KOREAN (NATIVE)
 - Email: oh3495@naver.com
