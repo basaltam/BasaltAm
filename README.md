@@ -1,5 +1,5 @@
 - Born 1997
-- Attending BUFS(Busan University of Foreign Studies) German Department and IT Department.
+- Graduate BUFS(Busan University of Foreign Studies) German Department and IT Department.
 - Bench Press 93kg Squat 140 kg deadlift 190kg
 - JAVA, HTML/CSS, JS
 - OPic AL(English)
