@@ -4,4 +4,4 @@
 - JAVA, HTML/CSS, JS
 - OPic AL(English)
 - KOREAN (NATIVE)
-- Email: oh3495@naver.com
+- Email: basaltthedev@gmail.com
